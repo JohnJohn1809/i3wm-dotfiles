@@ -323,7 +323,9 @@ bindcode $mod+88 exec /$HOME/.config/i3/scripts/fehbg.sh
 
 exec brave-browser https://www.youtube.com/feed/subscriptions
 
-exec firefox
+#exec firefox
+
+exec flatpak run org.mozilla.firefox
 
 # Text Editor
 
