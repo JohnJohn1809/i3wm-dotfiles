@@ -1,5 +1,3 @@
-#### Just My Personal Dotfiles
-
 ### Screenshots
 
 ![Image_01](https://i.imgur.com/nzgFO0N.png)
