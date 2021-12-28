@@ -206,11 +206,25 @@ assign [class="Geany"] workspace 2
 
 assign [class="Atril"] workspace 2
 
+assign [class="Typora"] workspace 2
+
 assign [class="Simplenote"] workspace 2
 
 assign [class="Apostrophe"] workspace 2
 
-assign [class="LibreOffice"] workspace 2
+assign [class="libreoffice"] workspace 2
+
+assign [class="libreoffice-writer"] workspace 2
+
+assign [class="libreoffice-draw"] workspace 2
+
+assign [class="libreoffice-calc"] workspace 2
+
+assign [class="libreoffice-base"] workspace 2
+
+assign [class="libreoffice-impress"] workspace 2
+
+assign [class="libreoffice-math"] workspace 2
 
 # File Manager
 
@@ -230,6 +244,8 @@ assign [class="TelegramDesktop"] workspace 10
 # Games
 
 assign [class="Steam"] workspace 9
+
+assign [class="Lutris"] workspace 9
 
 assign [class="Cockatrice"] workspace 9
 
