@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Spotify
+Exec=spotify Try --no-zygote
+Icon=spotify-client
+Type=Application
+Comment=Music Streaming
+Terminal=false
+Categories=Midia;

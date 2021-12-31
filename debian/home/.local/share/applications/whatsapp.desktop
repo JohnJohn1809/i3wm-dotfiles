@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Whatsapp
+Exec=i3-msg 'exec flatpak run org.mozilla.firefox https://web.whatsapp.com/'
+Icon=whatsapp
+Type=Application
+Comment=Social Midia
+Terminal=false
+Categories=Network;
