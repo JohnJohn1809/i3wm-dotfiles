@@ -172,6 +172,10 @@ for_window [title="GParted"] floating enable resize set 900 600
 
 for_window [title="Calculator"] floating enable
 
+for_window [title="Dialect"] floating enable
+
+for_window [title="Video Downloader"] floating enable
+
 for_window [title="Volume Control"] floating enable resize set 900 500
 
 for_window [title="Disks"] floating enable resize set 900 600
@@ -271,6 +275,8 @@ assign [class="4K Stogram"] workspace 9
 
 assign [class="4K Video Downloader"] workspace 9
 
+assign [class="Flatseal"] workspace 9
+
 #=======================================#
 #             Bar Settings              #
 #=======================================#
@@ -283,6 +289,8 @@ bar {
         #status_command i3blocks -c /$HOME/.config/i3/i3blocks.conf
         
         status_command i3status -c /$HOME/.config/i3/i3status.conf
+        
+        #status_command slstatus -s
 
         font pango: Sans 9
 
