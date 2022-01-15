@@ -180,6 +180,8 @@ for_window [title="Volume Control"] floating enable resize set 900 500
 
 for_window [title="Disks"] floating enable resize set 900 600
 
+for_window [title="PDF Arranger"] floating enable resize set 200 600
+
 for_window [title="Archive Manager"] floating enable resize set 900 600
 
 for_window [title="Task Manager"] floating enable resize set 900 600
@@ -187,8 +189,6 @@ for_window [title="Task Manager"] floating enable resize set 900 600
 for_window [class="Lxappearance"] floating enable resize set 900 600
 
 for_window [title="Terminal"] floating enable resize set 800 500
-
-#for_window [title="Blanket"] floating enable
 
 #=======================================#
 #           Workspace Assingn           #
@@ -272,6 +272,8 @@ assign [class="KeePassXC"] workspace 9
 assign [class="Audacity"] workspace 9
 
 assign [class="ClipGrab"] workspace 9
+
+assign [class="Easytag"] workspace 9
 
 assign [class="4K Stogram"] workspace 9
 
