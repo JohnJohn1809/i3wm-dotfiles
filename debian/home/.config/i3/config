@@ -172,7 +172,7 @@ for_window [title="GParted"] floating enable resize set 900 600
 
 for_window [title="Calculator"] floating enable
 
-for_window [title="Dialect"] floating enable
+#for_window [title="Dialect"] floating enable
 
 for_window [title="Video Downloader"] floating enable
 
@@ -199,6 +199,10 @@ for_window [title="Terminal"] floating enable resize set 800 500
 # Web Browser
 
 assign [class="Firefox"] workspace 1
+
+assign [class="Opera"] workspace 1
+
+assign [class="Vivaldi"] workspace 1
 
 assign [class="Brave"] workspace 10
 
