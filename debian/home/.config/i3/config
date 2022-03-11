@@ -199,6 +199,7 @@ for_window [title="Terminal"] floating enable resize set 800 500
 # Web Browser
 
 assign [class="Firefox"] workspace 1
+assign [class="firefox"] workspace 1
 
 assign [class="Opera"] workspace 1
 
